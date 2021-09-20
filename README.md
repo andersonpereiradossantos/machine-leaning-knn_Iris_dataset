@@ -37,4 +37,6 @@ git clone https://github.com/andersonpereiradossantos/machine-leaning-knn_Iris_d
 
 Anderson Pereira dos Santos
 
-https://www.linkedin.com/in/andersonpereirasantos
+[Linkedin](https://www.linkedin.com/in/andersonpereirasantos)
+
+[Github](https://github.com/andersonpereiradossantos)
