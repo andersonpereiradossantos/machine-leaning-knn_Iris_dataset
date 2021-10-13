@@ -15,9 +15,6 @@
 ![Saída](https://miro.medium.com/max/700/1*uo6VfVH87jRjMZWVdwq3Vw.png)
 
 
-
-
-
 # Como executar o projeto
 
 Pré-requisitos: Python 3 ou superior, Anaconda com Jupyter Notebook
@@ -30,8 +27,6 @@ git clone https://github.com/andersonpereiradossantos/machine-leaning-knn_Iris_d
 
 # Executar todas as células
 ```
-
-
 
 # Autor
 
